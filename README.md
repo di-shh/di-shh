@@ -59,56 +59,58 @@ Real-World AI Systems
 
 ---
 
+---
+
 ## 🚀 Projects
 
-I'm building my project portfolio step by step.
+### 🎥 AI CCTV Surveillance & Risk Detection
+AI-powered surveillance concept focused on real-time detection and tracking using existing CCTV/RTSP streams.
 
-| Project        | Focus                         |
-| -------------- | ----------------------------- |
-| 🔨 In Progress | Python / Software Development |
-| 🔨 In Progress | C++ / DSA                     |
-| 🔨 In Progress | AI / Computer Vision          |
+**Focus:** Computer Vision • Object Detection • Tracking • Risk Analysis
 
-More projects coming as I build them.
+> Built as part of Smart India Hackathon 2026.
+
+---
+
+### 🧮 Python Mini Projects
+
+Small projects built while strengthening Python fundamentals.
+
+**Focus:** Python • Problem Solving • Programming Fundamentals
+
+---
+
+### 💻 C++ & DSA Practice
+
+A growing collection of implementations and solutions while learning Data Structures & Algorithms with C++.
+
+**Focus:** C++ • STL • DSA • Problem Solving
 
 ---
 
 ## 📚 Currently Learning
 
-* **C++** — STL, problem solving & DSA
-* **Python** — programming fundamentals & projects
-* **Git & GitHub** — version control and collaborative development
-* **AI / ML** — building foundational knowledge
-* **Computer Vision** — exploring real-world applications
-
----
-
-## 📊 GitHub Stats
-
-![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+- C++ & Data Structures and Algorithms
+- Python programming
+- Object-Oriented Programming
+- Git & GitHub
+- Artificial Intelligence
+- Computer Vision
 
 ---
 
 ## 🎯 2026 Goals
 
-* [ ] Build strong **DSA fundamentals**
-* [ ] Become comfortable with **C++**
-* [ ] Build meaningful **Python projects**
-* [ ] Develop my first serious **AI project**
-* [ ] Explore **Computer Vision**
-* [ ] Contribute to **open source**
-* [ ] Build a portfolio that reflects what I can actually create
+- 🚀 Build strong DSA fundamentals
+- 🐍 Build meaningful Python projects
+- 🤖 Develop practical AI projects
+- 👁️ Explore Computer Vision
+- 💻 Contribute to open source
+- 🌱 Keep learning by building
 
 ---
 
-## 🌱 Building in Public
+## 📈 My Approach
 
-I believe the best way to learn engineering is to **build things, make mistakes, understand why they failed, and build them better.**
-
-This profile is a record of that journey.
-
-### Let's build something useful. 🚀
-
-
+```text
+Learn → Build → Break → Debug → Improve → Repeat
